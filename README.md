@@ -1,6 +1,8 @@
 # Bag of Words (BoW) Implementation from Scratch in Python
 This repository contains the complete Python code for implementing the Bag of Words (BoW) model from scratch, as demonstrated in the YouTube tutorial. The code walks through key steps like text preprocessing, tokenization, vocabulary creation, and vectorization to build a BoW representation for text data.
 
+YouTube Tutorial: [Bag of Words (BoW) Implementation from Scratch in Python](https://youtu.be/_457sqJ0HIo)
+
 Features:
 - Simple and beginner-friendly implementation.
 - Step-by-step comments for better understanding.
